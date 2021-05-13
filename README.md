@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Harsh v Sanu....
+- 👀 I’m interested in Programming....
+- 🌱 I’m currently learning Python, Data science, AI and ML....
+- 📫 How to reach me = DM Me at sanuvenkatesh27@outlook.com
+
+<!---
+Harshasanu/Harshasanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
